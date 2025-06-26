@@ -2,7 +2,14 @@
 
 A simple yet powerful desktop GUI application built with **Python** and **Tkinter** that allows users to convert currencies in real time. This tool fetches live exchange rates and performs accurate conversions between a wide range of currencies.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🖥️ Screenshots
+
+Here is the main interface of the Currency Converter app:
+
+![Currency Converter GUI](https://github.com/ayushshah-py/CURRENCY-CONVERTER/blob/main/CURRENCY%20CONVERTER%20.png?raw=true)
+
 
 ## 📌 Table of Contents
 
